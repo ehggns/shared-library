@@ -16,3 +16,7 @@ My shared web library
 [MuzLi Search](https://search.muz.li/)
 
 [Visily AI](https://www.visily.ai/)
+
+[Font Squirrel](https://www.fontsquirrel.com/)
+
+[Color Hunt](https://colorhunt.co/)
